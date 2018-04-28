@@ -1,9 +1,22 @@
 a {
     color: #fff;
+    text-transform: uppercase;
 }
 
 ul {
     background: #333;
     border-bottom: 4px solid #1C86EE;
+    float: inherit;
 }
 
+span{
+    color: red;
+}
+
+h1 {
+    color: #333;
+}
+
+.logo{
+    padding: 1%;
+}
